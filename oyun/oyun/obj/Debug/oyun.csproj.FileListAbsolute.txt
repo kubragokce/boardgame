@@ -1,0 +1,11 @@
+C:\Users\Kübra\source\repos\oyun\oyun\bin\Debug\oyun.exe.config
+C:\Users\Kübra\source\repos\oyun\oyun\bin\Debug\oyun.exe
+C:\Users\Kübra\source\repos\oyun\oyun\bin\Debug\oyun.pdb
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.Form1.resources
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.exe
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.pdb
+C:\Users\Kübra\source\repos\oyun\oyun\obj\Debug\oyun.Form2.resources
